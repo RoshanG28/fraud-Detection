@@ -411,13 +411,6 @@ Contributions welcome! Please read CONTRIBUTING.md.
 
 MIT License - see LICENSE file.
 
-## 👤 Author
-
-**Cyril Anand**
-- LinkedIn: [cyril-anand-8896582a5](https://linkedin.com/in/cyril-anand-8896582a5)
-- GitHub: [@cyrildude77](https://github.com/cyrildude77)
-- Email: vinodcyril77@gmail.com
-
 ---
 
 ⭐ Star this repo if you found it helpful!
